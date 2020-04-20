@@ -13,7 +13,7 @@ CONTENTS
 
 | 文章总结                                                     | 代码实践                                        |
 | ------------------------------------------------------------ | ----------------------------------------------- |
-| [机器学习基础：线性回归小结](./articles/ml_basic/机器学习基础：线性回归小结.md) | [code](./scripts/ml_basic/linear_regression.py) |
+| [机器学习基础：线性回归小结](https://www.cnblogs.com/54hys/p/12741850.html) | [code](./scripts/ml_basic/linear_regression.py) |
 |                                                              |                                                 |
 |                                                              |                                                 |
 |                                                              |                                                 |
